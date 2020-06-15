@@ -1,8 +1,8 @@
 ## 感谢sl-im作者提供的demo,自己就是想写一套im,用hyperf重写.
 # [sl-im](https://github.com/gaobinzhan/sl-im) 
-# [hyperf-im](https://github.com/inocturne/hyperf-chat)
+# [hyperf-im](https://github.com/AllenAqiang/hyperf-im)
 <p align="center">
-    <a href="https://github.com/inocturne/hyperf-chat" target="_blank">
+    <a href="https://github.com/AllenAqiang/hyperf-im" target="_blank">
         <img src="https://static.jayjay.cn/1496800949298.jpg"/>
     </a>
 </p>
@@ -138,8 +138,8 @@ php bin/hyperf.php start
 
 ## 联系方式
 
-- WeChat：naicha_1994
-- QQ：847050412
+- WeChat：15913880099
+- QQ：965455739
 
 ## License
 
